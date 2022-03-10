@@ -97,7 +97,7 @@
     </b-card-text>
     <b-list-group>
     <b-list-group-item>
-https://idealinsulationcompany.com/
+https://idealinsulationcompany.com/<br>
 http://villarimona.com/<br>
 https://bossitude.com/<br>
 https://www.saberlifefoundation.org/<br>
